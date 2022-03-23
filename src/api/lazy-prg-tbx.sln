@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lazy-prg-tbx-api", "webApi\lazy-prg-tbx-api.csproj", "{D89F4920-7D1E-44B0-9681-0572F8347682}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webApi", "webApi", "{EE89C364-8817-4C51-A87E-AC0D9360D9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89F4920-7D1E-44B0-9681-0572F8347682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89F4920-7D1E-44B0-9681-0572F8347682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89F4920-7D1E-44B0-9681-0572F8347682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89F4920-7D1E-44B0-9681-0572F8347682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D89F4920-7D1E-44B0-9681-0572F8347682} = {EE89C364-8817-4C51-A87E-AC0D9360D9F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80D61C9-53A0-461B-9BD7-90A7B4F2ED85}
+	EndGlobalSection
+EndGlobal
